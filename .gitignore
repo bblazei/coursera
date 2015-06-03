@@ -1,3 +1,7 @@
+# hidden directories
+.idea
+.gradle
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
